@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there im VestingDart 👋
 
-<!--
-**VestingDart/VestingDart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil! Ich liebe es, mit Java und Minecraft Plugins zu arbeiten 🧱🚀
 
-Here are some ideas to get you started:
+## 📊 Meine Sprachen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=VestingDart&layout=pie)
+
+## ⚡ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VestingDart&show_icons=true&theme=radical)
+
+## 🧰 Tools & Technologien
+
+<img src="https://skillicons.dev/icons?i=java,github,idea,discord,bots" />
+
+## 📫 Kontakt
+
+- ✉️ Mail: max@example.com
+- 🌐 Website: [voidscapeinteractive.com](https://voidscapeinteractive.com)
