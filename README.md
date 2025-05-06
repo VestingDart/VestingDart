@@ -16,5 +16,5 @@ Willkommen auf meinem GitHub-Profil! Ich liebe es, mit Java und Minecraft Plugin
 
 ## 📫 Kontakt
 
-- ✉️ Mail: max@example.com
+- ✉️ Mail: vestingdart@voidscapeinteractive.com
 - 🌐 Website: [voidscapeinteractive.com](https://voidscapeinteractive.com)
