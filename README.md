@@ -1,4 +1,4 @@
-## Hi there im VestingDart👋
+## Hi there im VestingDart a Swiss Developer👋
 
 Willkommen auf meinem GitHub-Profil! Ich liebe es, mit Java und Minecraft Plugins zu arbeiten 🧱🚀
 
