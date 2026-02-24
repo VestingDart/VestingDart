@@ -39,7 +39,8 @@
 ## 📊 Most Used Languages 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VestingDart&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 
 ---
