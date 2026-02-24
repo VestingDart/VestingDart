@@ -36,10 +36,10 @@
 
 ---
 
-## 📊 Most Used Languages (Circle Style)
+## 📊 Most Used Languages 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VestingDart&layout=donut&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VestingDart&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
