@@ -71,14 +71,6 @@
 
 ---
 
-## 🏆 Developer Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VestingDart&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## ⚡ Current Focus
 
 - 🏗️ Scaling backend systems
