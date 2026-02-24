@@ -39,8 +39,21 @@
 ## 📊 Most Used Languages 
 
 <p align="center">
-  <a href="https://github.com/vestingdart/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
-  <a href="https://github.com/vestingdart/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+  <a href="https://github.com/VestingDart">
+    <picture>
+      <img height='150px'
+           src="https://beautiful-github-homepage.vercel.app/api?username=VestingDart&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"
+           alt="VestingDart Stats" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/VestingDart">
+    <picture>
+      <img height='150px'
+           src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=VestingDart&hide_title=false&layout=compact&theme=gotham&count_private=true"
+           alt="VestingDart Top Languages" />
+    </picture>
+  </a>
 </p>
 
 ---
