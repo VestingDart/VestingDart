@@ -64,9 +64,9 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  💬 Discord: <strong>YOUR_DISCORD_HERE</strong><br>
-  🌍 Website: <strong>YOUR_WEBSITE_HERE</strong><br>
-  🧠 Portfolio: <strong>OPTIONAL_LINK</strong>
+  💬 Discord: <strong>Soon</strong><br>
+  🌍 Website: <strong>voidscapeinteractive.com</strong><br>
+  🧠 Portfolio: <strong>In Developement</strong>
 </p>
 
 ---
