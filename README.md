@@ -42,7 +42,7 @@
   <a href="https://github.com/VestingDart">
     <picture>
       <img height='150px'
-           src="https://beautiful-github-homepage.vercel.app/api?username=VestingDart&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"
+           src="https://beautiful-github-homepage.vercel.app/api?username=VestingDart&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
            alt="VestingDart Stats" />
     </picture>
   </a>
@@ -50,7 +50,7 @@
   <a href="https://github.com/VestingDart">
     <picture>
       <img height='150px'
-           src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=VestingDart&hide_title=false&layout=compact&theme=gotham&count_private=true"
+           src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=VestingDart&hide_title=false&layout=compact&theme=gotham&include_all_commits=true&count_private=true"
            alt="VestingDart Top Languages" />
     </picture>
   </a>
