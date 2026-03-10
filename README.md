@@ -14,7 +14,7 @@
 
 <p align="left">
   🔗 <a href="ORG_LINK_HERE">Voidscape Interactive</a><br>
-  🔗 <a href="ORG_LINK_HERE">Elvania Netzwerk</a>
+  🔗 <a href="ORG_LINK_HERE">Valeryn.net</a>
 </p>
 
 ---
